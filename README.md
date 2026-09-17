@@ -15,6 +15,7 @@ Welcome to our community. We hope you feel fulfilled here.
 
 Here are some documents we think you'll find generally helpful here:
 
+  * [Overview of our Design & Development Process](docs/OverviewDesignAndDevelopmentProcess.md)
   * [Security Concerns](docs/SECURITY.md)
   * [Code of Conduct](docs/CODE_OF_CONDUCT.md)
   * [Contributing to our Projects](docs/CONTRIBUTING.md)
